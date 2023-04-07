@@ -78,7 +78,7 @@ namespace employee
 ```
 ## Output:
  
- ![output](https://github.com/Ishu-Vasanth/Ex04-Constructor/blob/main/op.png)
+ ![output](op.png)
 
 ## Result:
 
